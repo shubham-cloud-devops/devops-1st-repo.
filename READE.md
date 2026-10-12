@@ -1,3 +1,4 @@
  my first git project
   shubham chavan
-welcome to seconddemo
+ welcome to seconddemo
+   git demo
